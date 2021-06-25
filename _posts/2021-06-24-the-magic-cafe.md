@@ -52,7 +52,7 @@ The most popular subforum on the site is "The workers," a subforum dedicated to 
 
 &nbsp;
 
-But, what else can we do with the dataset that is not accessible on the website's front page? Next, below I answer a few simple questions using the dataset.
+But, what else can we do with the dataset that is not accessible on the website's front page? Below, I answer a few simple questions using the dataset.
 
 ## Which thread contains the most posts?
 
