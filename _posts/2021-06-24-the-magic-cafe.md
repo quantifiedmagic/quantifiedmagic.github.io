@@ -2,6 +2,7 @@
 layout: post
 title: The Magic Cafe Dataset
 categories: datasets 
+date: 2021-06-24 20:55:00
 ---
 
 I am an advid reader of The Magic Café, with nearly 13 years browsing thousands of threads ranging from "How to Dress" to "How do I improve my Bottom Deal." I also enjoy magic drama and reading fights between users. 
