@@ -1,13 +1,13 @@
 ---
 layout: post
-title: The Magic Cafe Dataset
+title: The Magic Café Dataset
 categories: datasets 
 date: 2021-06-24 20:55:00
 ---
 
 I am an advid reader of The Magic Café, with nearly 13 years browsing thousands of threads ranging from "How to Dress" to "How do I improve my Bottom Deal." I also enjoy magic drama and reading fights between users. 
 
-Most magicians, amateur or professional, know about The Magic Cafe. Steve Brook started The Magic Cafe in 2001 to stay in touch with magic friends {% cite endersgame_2020 %}. At the time of this post, it has been online for 20 years, older than Twitter (2006) and Facebook (2004). How has the community changed over time? Is the community still as active as it was a decade ago? I have scraped the public posts to answer these questions and more.
+Most magicians, amateur or professional, know about The Magic Café. Steve Brook started The Magic Café in 2001 to stay in touch with magic friends {% cite endersgame_2020 %}. At the time of this post, it has been online for 20 years, older than Twitter (2006) and Facebook (2004). How has the community changed over time? Is the community still as active as it was a decade ago? I have scraped the public posts to answer these questions and more.
 
 This post introduces the dataset and includes a summary of the basic statistics. In future posts, I will explore the dataset in more depth. If you want to skip the fluff and jump into the dataset yourself, find the dataset and code below:
 
