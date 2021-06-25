@@ -58,7 +58,7 @@ But, what else can we do with the dataset that is not accessible on the website'
 
 > "Take any card you like..not THAT one!" --Every Magician
 
-Magicians love one liners and hacky premises. This is evident given the longest threads on the website listed below:
+Magicians love one liners and hacky premises. This is evident given the ten longest threads listed below:
 
 |Count|Link|
 |-----|----|
