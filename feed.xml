@@ -5,15 +5,15 @@
     <description>Quantifying the Magic Community for Fun and Profit</description>
     <link>http://quantifiedmagic.com/</link>
     <atom:link href="http://quantifiedmagic.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 24 Jun 2021 20:59:50 -0500</pubDate>
-    <lastBuildDate>Thu, 24 Jun 2021 20:59:50 -0500</lastBuildDate>
+    <pubDate>Thu, 24 Jun 2021 21:03:22 -0500</pubDate>
+    <lastBuildDate>Thu, 24 Jun 2021 21:03:22 -0500</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
         <title>The Magic Cafe Dataset</title>
         <description>&lt;p&gt;I am an advid reader of The Magic Café, with nearly 13 years browsing thousands of threads ranging from “How to Dress” to “How do I improve my Bottom Deal.” I also enjoy magic drama and reading fights between users.&lt;/p&gt;
 
-&lt;p&gt;Most magicians, amateur or professional, know about The Magic Cafe. Steve Brook started The Magic Cafe in 2001 to stay in touch with magic friends (missing reference). At the time of this post, it has been online for 20 years, older than Twitter (2006) and Facebook (2004). How has the community changed over time? Is the community still as active as it was a decade ago? I have scraped the public posts to answer these questions and more.&lt;/p&gt;
+&lt;p&gt;Most magicians, amateur or professional, know about The Magic Cafe. Steve Brook started The Magic Cafe in 2001 to stay in touch with magic friends &lt;a class=&quot;citation&quot; href=&quot;#endersgame_2020&quot;&gt;(EndersGame, 2020)&lt;/a&gt;. At the time of this post, it has been online for 20 years, older than Twitter (2006) and Facebook (2004). How has the community changed over time? Is the community still as active as it was a decade ago? I have scraped the public posts to answer these questions and more.&lt;/p&gt;
 
 &lt;p&gt;This post introduces the dataset and includes a summary of the basic statistics. In future posts, I will explore the dataset in more depth. If you want to skip the fluff and jump into the dataset yourself, find the dataset and code below:&lt;/p&gt;
 
@@ -182,7 +182,7 @@
 
 &lt;h1 id=&quot;references&quot;&gt;References&lt;/h1&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;/ol&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;endersgame_2020&quot;&gt;EndersGame. (2020). Interview on Magic with Collector &amp;amp; Magician Steve Brooks (The Magic Cafe). In &lt;i&gt;PlayingCardDecks.com&lt;/i&gt;. https://playingcarddecks.com/blogs/all-in/interview-on-magic-with-collector-magician-steve-brooks-the-magic-cafe&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
 </description>
         <pubDate>Thu, 24 Jun 2021 15:55:00 -0500</pubDate>
         <link>http://quantifiedmagic.com/datasets/2021/06/24/the-magic-cafe.html</link>
