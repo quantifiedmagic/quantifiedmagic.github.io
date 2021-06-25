@@ -1,0 +1,171 @@
+I"<p>I am an advid reader of The Magic Café, with nearly 13 years browsing thousands of threads ranging from “How to Dress” to “How do I improve my Bottom Deal.” I also enjoy magic drama and reading fights between users.</p>
+
+<p>Most magicians, amateur or professional, know about The Magic Cafe. Steve Brook started The Magic Cafe in 2001 to stay in touch with magic friends (missing reference). At the time of this post, it has been online for 20 years, older than Twitter (2006) and Facebook (2004). How has the community changed over time? Is the community still as active as it was a decade ago? I have scraped the public posts to answer these questions and more.</p>
+
+<p>This post introduces the dataset and includes a summary of the basic statistics. In future posts, I will explore the dataset in more depth. If you want to skip the fluff and jump into the dataset yourself, find the dataset and code below:</p>
+
+<p>Download: <a href="https://drive.google.com/file/d/1H1fNp01wsk8rL16BReMHX6xcr38UeE5Z/view?usp=sharing">Link</a>.</p>
+
+<p>Code: <a href="https://github.com/quantifiedmagic/The-Magic-Cafe-Dataset">Link</a></p>
+
+<h1 id="basic-statistics">Basic Statistics</h1>
+
+<p> </p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Total Threads</td>
+      <td>321463</td>
+    </tr>
+    <tr>
+      <td>Total Posts</td>
+      <td>6029642</td>
+    </tr>
+    <tr>
+      <td>Average Posts per Thread</td>
+      <td>18.76</td>
+    </tr>
+  </tbody>
+</table>
+
+<p> </p>
+
+<p>With more than 300k threads, the dataset is large given the niche community. Moreover, the forum is active, with nearly 19 posts per thread on average. The Magic Café has averaged 300k new posts per year.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Subforum</th>
+      <th>Count</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>The workers</td>
+      <td>25534</td>
+    </tr>
+    <tr>
+      <td>Penny for your thoughts</td>
+      <td>23259</td>
+    </tr>
+    <tr>
+      <td>Not very magical, still…</td>
+      <td>20599</td>
+    </tr>
+    <tr>
+      <td>Latest and Greatest?</td>
+      <td>16486</td>
+    </tr>
+    <tr>
+      <td>Tricks &amp; Effects</td>
+      <td>13564</td>
+    </tr>
+    <tr>
+      <td>Nothing up my sleeve…</td>
+      <td>11094</td>
+    </tr>
+    <tr>
+      <td>The spooky, the mysterious…the bizarre!</td>
+      <td>10937</td>
+    </tr>
+    <tr>
+      <td>Our new arrivals</td>
+      <td>10803</td>
+    </tr>
+    <tr>
+      <td>The little darlings</td>
+      <td>10329</td>
+    </tr>
+    <tr>
+      <td>Grand illusion</td>
+      <td>8638</td>
+    </tr>
+  </tbody>
+</table>
+
+<p> </p>
+
+<p>The most popular subforum on the site is “The workers,” a subforum dedicated to card magic. Closly trailing card magic is the subforum on mentalism, titled “Penny for your thoughts.” The numbers are unsurprising for three reasons. First, online communities do not last for 20 years unless they are active. Second, card magic and mentalism have a special aurora around them with relationships with gambling and simply reading the mind of strangers. Third, this information is accessible by simply summing the numbers available on the site as shown below:</p>
+
+<p> </p>
+
+<p><img src="/assets/themagiccafe-posts.png" alt="The Magic Cafe" width="250" /></p>
+
+<p> </p>
+
+<p>But, what else can we do with the dataset that is not accessible on the website’s front page? Next, below I answer a few simple questions using the dataset.</p>
+
+<h2 id="which-thread-contains-the-most-posts">Which thread contains the most posts?</h2>
+
+<blockquote>
+  <p>“Take any card you like..not THAT one!” –Every Magician</p>
+</blockquote>
+
+<p>Magicians love one liners and hacky premises. This is evident given the longest threads on the website listed below:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Count</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>25012</td>
+      <td><a href="https://www.themagiccafe.com/forums/viewtopic.php?topic=250916&amp;forum=32">The Magic Cafe Forum Index » Not very magical, still… » Answer a Question with a Question</a></td>
+    </tr>
+    <tr>
+      <td>13703</td>
+      <td><a href="https://www.themagiccafe.com/forums/viewtopic.php?topic=181702&amp;forum=2">The Magic Cafe Forum Index » The workers » Card Trick Game</a></td>
+    </tr>
+    <tr>
+      <td>11651</td>
+      <td><a href="https://www.themagiccafe.com/forums/viewtopic.php?topic=385331&amp;forum=32&amp;start=0">The Magic Cafe Forum Index » Not very magical, still… » New Game: You’re Banned</a></td>
+    </tr>
+    <tr>
+      <td>8620</td>
+      <td><a href="https://www.themagiccafe.com/forums/viewtopic.php?topic=230576&amp;forum=24">The Magic Cafe Forum Index » Now that’s funny! » Gag tag</a></td>
+    </tr>
+    <tr>
+      <td>8359</td>
+      <td><a href="https://www.themagiccafe.com/forums/viewtopic.php?topic=247474&amp;forum=24">The Magic Cafe Forum Index » Now that’s funny! » Three words  TOPIC IS LOCKED</a></td>
+    </tr>
+    <tr>
+      <td>7884</td>
+      <td><a href="https://www.themagiccafe.com/forums/viewtopic.php?topic=327332&amp;forum=24">The Magic Cafe Forum Index » Now that’s funny! » Give me five</a></td>
+    </tr>
+    <tr>
+      <td>7126</td>
+      <td><a href="https://www.themagiccafe.com/forums/viewtopic.php?topic=352338&amp;forum=32">The Magic Cafe Forum Index » Not very magical, still… » Two words…</a></td>
+    </tr>
+    <tr>
+      <td>6652</td>
+      <td><a href="https://www.themagiccafe.com/forums/viewtopic.php?topic=250953&amp;forum=24">The Magic Cafe Forum Index » Now that’s funny! » The alphabet game  TOPIC IS LOCKED</a></td>
+    </tr>
+    <tr>
+      <td>6615</td>
+      <td><a href="https://www.themagiccafe.com/forums/viewtopic.php?topic=330272&amp;forum=24">The Magic Cafe Forum Index » Now that’s funny!</a></td>
+    </tr>
+    <tr>
+      <td>5281</td>
+      <td><a href="https://www.themagiccafe.com/forums/viewtopic.php?topic=278537&amp;forum=24">The Magic Cafe Forum Index » Now that’s funny! » Why is it that???</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<p> </p>
+
+<p>The longest thread on the forum, “Answer a Question with a Question,” has 1,250 pages of content (25k total posts), the post goes on and on and on and on. Go ahead and read each of the popular posts, I’m sure there are gags there that you already use (I know I do).</p>
+
+<p><em>Future work: Make an app that shocks me every time I say something that has been said 5 million times.</em></p>
+
+<p> </p>
+
+<h2 id="what-is-the-longest-post-made-on-the-magic-café">What is the longest post made on The Magic Café?</h2>
+
+<h1 id="references">References</h1>
+
+<ol class="bibliography"></ol>
+:ET
