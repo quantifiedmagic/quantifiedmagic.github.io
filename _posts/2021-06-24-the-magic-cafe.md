@@ -84,6 +84,8 @@ The longest thread on the forum, "Answer a Question with a Question," has 1,250 
 
 ## What is the longest post made on The Magic Café?
 
+The longest post was made by Lawrence O, with 32 thousand total words. It is a list of references for sponge ball routines. While some effort went into compiling the list, it is the definition of information overload. It is more  useful to either post 3-5 favoriate references, or just link to the references on [Conjuring Archive](https://www.conjuringarchive.com/list/category/340).
+
 
 # References
 
