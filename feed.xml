@@ -5,8 +5,8 @@
     <description>Quantifying the Magic Community for Fun and Profit</description>
     <link>http://quantifiedmagic.com/</link>
     <atom:link href="http://quantifiedmagic.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 24 Jun 2021 21:03:22 -0500</pubDate>
-    <lastBuildDate>Thu, 24 Jun 2021 21:03:22 -0500</lastBuildDate>
+    <pubDate>Thu, 24 Jun 2021 21:09:26 -0500</pubDate>
+    <lastBuildDate>Thu, 24 Jun 2021 21:09:26 -0500</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -107,7 +107,7 @@
 
 &lt;p&gt; &lt;/p&gt;
 
-&lt;p&gt;But, what else can we do with the dataset that is not accessible on the website’s front page? Next, below I answer a few simple questions using the dataset.&lt;/p&gt;
+&lt;p&gt;But, what else can we do with the dataset that is not accessible on the website’s front page? Below, I answer a few simple questions using the dataset.&lt;/p&gt;
 
 &lt;h2 id=&quot;which-thread-contains-the-most-posts&quot;&gt;Which thread contains the most posts?&lt;/h2&gt;
 
