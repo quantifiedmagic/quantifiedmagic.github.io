@@ -89,6 +89,7 @@ DEPENDENCIES
   jekyll-compose
   jekyll-scholar
   jgd
+  liquid
 
 BUNDLED WITH
    2.2.21
