@@ -6,13 +6,13 @@ date: 2021-06-25 14:57 -0500
 ---
 ![disappear](https://media.giphy.com/media/VIzs0jgs8KmgVeTknN/giphy.gif){: width="250"}
 
-The Magic Café is a popular community for magicians for 20 years. Yet, with the popularity of Facebook groups, subreddits (e.g., [r/Magic](https://www.reddit.com/r/Magic/) and [r/CardMagic](https://www.reddit.com/r/cardmagic/)), the old-school design of The Magic Café may turn young magic enthusiasts away from the platform.
+Now 20 years old, The Magic Café is a popular community for magicians. Yet, with the popularity of Facebook groups, subreddits (e.g., [r/Magic](https://www.reddit.com/r/Magic/) and [r/CardMagic](https://www.reddit.com/r/cardmagic/)), the old-school design of The Magic Café may turn young magic enthusiasts away from the platform.
 
-Other decline signals include the end of the special guest of honor series, which included sessions with magic icons ranging from Eugene Burger to Darwin Ortiz. The last “guest of honor” was Xavier Spade in 2016 — the only guest that year.
+Other decline signals include the end of the special guest of honor series, which included sessions with magic icons ranging from Eugene Burger to Darwin Ortiz. The last guest of honor was Xavier Spade in 2016 — the only guest that year.
 
 From personal experience, I go months without visiting The Magic Café. Yet, even after six months away, catching up is easy. In contrast, keeping up with posts on Reddit is more difficult.
 
-Is the volume of posts decreasing over time? Are there cyclical trends in posting behavior? Are certain areas of magic declining more than others? Is the Magic Café dying? In this post, I examine posting trends over time.
+Is the volume of posts decreasing over time? Are certain areas of magic declining more than others? Is the Magic Café dying? In this post, I examine these questions and more.
 
 As always, find the code and the data linked below:
 
@@ -24,7 +24,7 @@ Code: [Link](https://github.com/quantifiedmagic/Blog-Analysis-Notebooks/tree/mas
 
 ![The Magic Cafe](/assets/posts/is-the-magic-cafe-dying/magic-cafe-time.png){: width="500" }
 
- There you have it. The number of posts is dropping year after year starting in 2008. Why did it begin declining in 2008? The housing crisis? Competition from other magic communities ranging from Reddit to Theory11? Who knows. That topic is interesting to explore in a future post. Given the drop in the number of posts, it is unsurprising that special guests stopped in 2016. There are other online magic communities (e.g., [Genii Magazine's forum](https://forums.geniimagazine.com/)), and many have been around as long as The Magic Café. Therefore, competition may not be the only reason.
+There you have it. The number of posts is dropping year after year, starting in 2008. Why did it begin declining in 2008? The housing crisis? Competition from other magic communities ranging from Reddit to Theory11? Who knows. Given the drop in the number of posts, it is unsurprising that special guests stopped in 2016. Why would guests appear if there is no one to speak to? There are other online magic communities (e.g., [Genii Magazine's forum](https://forums.geniimagazine.com/)), and many have been around as long as The Magic Café. Therefore, competition may not be the only reason.
 
 So, what does the decline in user activity mean? As an outsider, I can only speculate. The community still has enough activity to continue for a long time. But, given Steve Brook's recent [personal crisis](https://www.themagiccafe.com/forums/viewtopic.php?topic=723763), and the fast decline in user activity, the need to document this piece of magic history is essential before it disappears forever. I hope to update The Magic Café Dataset biannually to keep a copy around if anything were to happen.
 
