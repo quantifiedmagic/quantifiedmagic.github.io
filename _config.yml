@@ -11,7 +11,7 @@ author: "Tony"
 description: "Quantifying the Magic Community for Fun and Profit"
 #baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://quantifiedmagic.com" # the base hostname & protocol for your site
-#twitter_username: Taffyer 
+twitter_username: quantifiedmagic
 github_username: quantifiedmagic
 
 # Build settings
