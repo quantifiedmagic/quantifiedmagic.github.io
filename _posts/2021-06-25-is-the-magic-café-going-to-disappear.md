@@ -26,8 +26,6 @@ Code: [Link](https://github.com/quantifiedmagic/Blog-Analysis-Notebooks/tree/mas
 
 There you have it. The number of posts is dropping year after year, starting in 2008. Why did it begin declining in 2008? The housing crisis? Competition from other magic communities ranging from Reddit to Theory11? Who knows. Given the drop in the number of posts, it is unsurprising that special guests stopped in 2016. Why would guests appear if there is no one to speak to? There are other online magic communities (e.g., [Genii Magazine's forum](https://forums.geniimagazine.com/)), and many have been around as long as The Magic Café. Therefore, competition may not be the only reason.
 
-So, what does the decline in user activity mean? As an outsider, I can only speculate. The community still has enough activity to continue for a long time. But, given Steve Brook's recent [personal crisis](https://www.themagiccafe.com/forums/viewtopic.php?topic=723763), and the fast decline in user activity, the need to document this piece of magic history is essential before it disappears forever. I hope to update The Magic Café Dataset biannually to keep a copy around if anything were to happen.
-
 # Post frequency over time by subforum
 
  Are all communities declining at similar rates? I find that the distribution (shape) of the decline varies subforum-to-subforum. For instance, has the mentalism subforum (Penny for your thoughts) combated the max exodus better than the card magic subforum (The workers)? See the figures below:
@@ -44,6 +42,16 @@ The shape of the decline for the mentalism subforum is much different from card 
 ![The Magic Cafe](/assets/posts/is-the-magic-cafe-dying/bus-time.png){: width="500" }
 
 The "Tricky Business" subforum (which "talk(s) about the business side of magic") also declined over time. It did see a substantial resurgence in 2011 (which also appeared for the previous two communities, albeit much smaller). But, now averages only a few posts each day.
+
+# Number of Unique Users per Year
+
+
+![The Magic Cafe](/assets/posts/is-the-magic-cafe-dying/nunique_users.png){: width="500" }
+
+How many active users are there each year? I define active users as users that posted at least once on the forum. At the peak of The Magic Café's popularity, around seven thousand unique users were posting each year. In 2020, there were less than four thousand individual users, less than the total activity in 2003. Interestingly, the number of active users dropped much slower than the number of posts per year. I assume many users were like myself, visiting every few months. But, as activity is dwindling, there is less content to explore. Thus, there is little motivation to continue visiting.
+
+So, what does the decline in user activity mean? As an outsider, I can only speculate. The community still has enough activity to continue for a long time. But, given Steve Brook's recent [personal crisis](https://www.themagiccafe.com/forums/viewtopic.php?topic=723763), and the fast decline in user activity, the need to document this piece of magic history is essential before it disappears forever. I hope to update The Magic Café Dataset biannually to keep a copy around if anything were to happen.
+
 
 # Other interesting findings
 
