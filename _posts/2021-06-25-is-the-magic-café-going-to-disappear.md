@@ -32,7 +32,7 @@ Are all magic genres (e.g., cards, mentalisim, etc.) declining at similar rates?
 
 ![The Magic Cafe](/assets/posts/is-the-magic-cafe-dying/workers-time.png){: width="500" }
 
-"The workers" (card magic) subforum's decline started in 2004, much earlier than the overall decline of the Café (which began in 2008). This finding is intriguing. I tried to look at posts around that time to see what happened but could not gather anything quickly. Did the moderation methods change? Did the forum become saturated such that searching for old posts replaced the need to post new ones? One way to answer these questions is qualitiative analysis, surveying forum moderators and frequent users at that time to understand what changed. If this topic excites me in the future, I will reach out and see if I can gain insight into the decline.
+"The workers" (card magic) subforum's decline started in 2004, much earlier than the overall decline of the Café (which began in 2008). This finding is intriguing. I tried to look at posts around that time to see what happened but could not gather anything quickly. Did the moderation methods change? Did the forum become saturated such that searching for old posts replaced the need to post new ones? One way to answer these questions is qualitative analysis, surveying forum moderators and frequent users at that time to understand what changed. If this topic excites me in the future, I will reach out and see if I can gain insight into the decline.
 
 ![The Magic Cafe](/assets/posts/is-the-magic-cafe-dying/mental-time.png){: width="500" }
 
