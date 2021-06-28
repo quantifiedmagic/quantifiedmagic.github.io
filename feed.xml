@@ -5,8 +5,8 @@
     <description>Quantifying the Magic Community for Fun and Profit</description>
     <link>http://quantifiedmagic.com/</link>
     <atom:link href="http://quantifiedmagic.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Jun 2021 08:10:30 -0500</pubDate>
-    <lastBuildDate>Mon, 28 Jun 2021 08:10:30 -0500</lastBuildDate>
+    <pubDate>Mon, 28 Jun 2021 08:15:05 -0500</pubDate>
+    <lastBuildDate>Mon, 28 Jun 2021 08:15:05 -0500</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -25,7 +25,7 @@
 
 &lt;p&gt;Dataset: &lt;a href=&quot;https://quantifiedmagic.com/datasets/2021/06/24/the-magic-cafe.html&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Code: &lt;a href=&quot;https://github.com/quantifiedmagic/Blog-Analysis-Notebooks/tree/master/analysis/is-the-magic-cafe-dying&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Code: &lt;a href=&quot;https://github.com/quantifiedmagic/Blog-Analysis-Notebooks/tree/master/analysis/is-the-magic-cafe-going-to-disappear&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;post-frequency-over-time&quot;&gt;Post frequency over time&lt;/h1&gt;
 
