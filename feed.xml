@@ -5,15 +5,15 @@
     <description>Quantifying the Magic Community for Fun and Profit</description>
     <link>http://quantifiedmagic.com/</link>
     <atom:link href="http://quantifiedmagic.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 26 Jun 2021 10:26:56 -0500</pubDate>
-    <lastBuildDate>Sat, 26 Jun 2021 10:26:56 -0500</lastBuildDate>
+    <pubDate>Mon, 28 Jun 2021 08:10:30 -0500</pubDate>
+    <lastBuildDate>Mon, 28 Jun 2021 08:10:30 -0500</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
         <title>Is The Magic Café going to Disappear?</title>
         <description>&lt;p&gt;&lt;img src=&quot;https://media.giphy.com/media/VIzs0jgs8KmgVeTknN/giphy.gif&quot; alt=&quot;disappear&quot; width=&quot;250&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Now 20 years old, The Magic Café is a popular community for magicians. Yet, with the popularity of Facebook groups, subreddits (e.g., &lt;a href=&quot;https://www.reddit.com/r/Magic/&quot;&gt;r/Magic&lt;/a&gt; and &lt;a href=&quot;https://www.reddit.com/r/cardmagic/&quot;&gt;r/CardMagic&lt;/a&gt;), the old-school design of The Magic Café may turn young magic enthusiasts away from the platform.&lt;/p&gt;
+&lt;p&gt;Now 20 years old, The Magic Café is a popular community for magicians. Yet, with the popularity of Facebook groups and Reddit (e.g., &lt;a href=&quot;https://www.reddit.com/r/Magic/&quot;&gt;r/Magic&lt;/a&gt; and &lt;a href=&quot;https://www.reddit.com/r/cardmagic/&quot;&gt;r/CardMagic&lt;/a&gt;), the old-school design of The Magic Café may turn young magic enthusiasts away from the platform.&lt;/p&gt;
 
 &lt;p&gt;Other decline signals include the end of the special guest of honor series, which included sessions with magic icons ranging from Eugene Burger to Darwin Ortiz. The last guest of honor was Xavier Spade in 2016 — the only guest that year.&lt;/p&gt;
 
@@ -33,8 +33,6 @@
 
 &lt;p&gt;There you have it. The number of posts is dropping year after year, starting in 2008. Why did it begin declining in 2008? The housing crisis? Competition from other magic communities ranging from Reddit to Theory11? Who knows. Given the drop in the number of posts, it is unsurprising that special guests stopped in 2016. Why would guests appear if there is no one to speak to? There are other online magic communities (e.g., &lt;a href=&quot;https://forums.geniimagazine.com/&quot;&gt;Genii Magazine’s forum&lt;/a&gt;), and many have been around as long as The Magic Café. Therefore, competition may not be the only reason.&lt;/p&gt;
 
-&lt;p&gt;So, what does the decline in user activity mean? As an outsider, I can only speculate. The community still has enough activity to continue for a long time. But, given Steve Brook’s recent &lt;a href=&quot;https://www.themagiccafe.com/forums/viewtopic.php?topic=723763&quot;&gt;personal crisis&lt;/a&gt;, and the fast decline in user activity, the need to document this piece of magic history is essential before it disappears forever. I hope to update The Magic Café Dataset biannually to keep a copy around if anything were to happen.&lt;/p&gt;
-
 &lt;h1 id=&quot;post-frequency-over-time-by-subforum&quot;&gt;Post frequency over time by subforum&lt;/h1&gt;
 
 &lt;p&gt;Are all communities declining at similar rates? I find that the distribution (shape) of the decline varies subforum-to-subforum. For instance, has the mentalism subforum (Penny for your thoughts) combated the max exodus better than the card magic subforum (The workers)? See the figures below:&lt;/p&gt;
@@ -50,6 +48,14 @@
 &lt;p&gt;&lt;img src=&quot;/assets/posts/is-the-magic-cafe-dying/bus-time.png&quot; alt=&quot;The Magic Cafe&quot; width=&quot;500&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The “Tricky Business” subforum (which “talk(s) about the business side of magic”) also declined over time. It did see a substantial resurgence in 2011 (which also appeared for the previous two communities, albeit much smaller). But, now averages only a few posts each day.&lt;/p&gt;
+
+&lt;h1 id=&quot;number-of-unique-users-per-year&quot;&gt;Number of Unique Users per Year&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/posts/is-the-magic-cafe-dying/nunique_users.png&quot; alt=&quot;The Magic Cafe&quot; width=&quot;500&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;How many active users are there each year? I define active users as users that posted at least once on the forum. At the peak of The Magic Café’s popularity, around seven thousand unique users were posting each year. In 2020, there were less than four thousand individual users, less than the total activity in 2003. Interestingly, the number of active users dropped much slower than the number of posts per year. I assume many users were like myself, visiting every few months. But, as activity is dwindling, there is less content to explore. Thus, there is little motivation to continue visiting.&lt;/p&gt;
+
+&lt;p&gt;So, what does the decline in user activity mean? As an outsider, I can only speculate. The community still has enough activity to continue for a long time. But, given Steve Brook’s recent &lt;a href=&quot;https://www.themagiccafe.com/forums/viewtopic.php?topic=723763&quot;&gt;personal crisis&lt;/a&gt;, and the fast decline in user activity, the need to document this piece of magic history is essential before it disappears forever. I hope to update The Magic Café Dataset biannually to keep a copy around if anything were to happen.&lt;/p&gt;
 
 &lt;h1 id=&quot;other-interesting-findings&quot;&gt;Other interesting findings&lt;/h1&gt;
 
