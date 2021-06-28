@@ -18,7 +18,7 @@ As always, find the code and the data linked below:
 
 Dataset: [Link](https://quantifiedmagic.com/datasets/2021/06/24/the-magic-cafe.html)
 
-Code: [Link](https://github.com/quantifiedmagic/Blog-Analysis-Notebooks/tree/master/analysis/is-the-magic-cafe-dying)
+Code: [Link](https://github.com/quantifiedmagic/Blog-Analysis-Notebooks/tree/master/analysis/is-the-magic-cafe-going-to-disappear)
 
 # Post frequency over time
 
