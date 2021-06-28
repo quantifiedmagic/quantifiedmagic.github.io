@@ -8,7 +8,7 @@ date: 2021-06-25 14:57 -0500
 
 Now 20 years old, The Magic Café is a popular community for magicians. Yet, with the popularity of Facebook groups and Reddit (e.g., [r/Magic](https://www.reddit.com/r/Magic/) and [r/CardMagic](https://www.reddit.com/r/cardmagic/)), the old-school design of The Magic Café may turn young magic enthusiasts away from the platform.
 
-Other decline signals include the end of the special guest of honor series, which included sessions with magic icons ranging from Eugene Burger to Darwin Ortiz. The last guest of honor was Xavier Spade in 2016 — the only guest that year.
+There are many signals that the community is declining. For instance, the guest of honor series is no more, which included sessions with magic icons ranging from Eugene Burger to Darwin Ortiz. The last guest of honor was Xavier Spade in 2016 — the only guest that year.
 
 From personal experience, I go months without visiting The Magic Café. Yet, even after six months away, catching up is easy. In contrast, keeping up with posts on Reddit is more difficult.
 
