@@ -52,7 +52,7 @@ In contrast, the shape of the decline for the mentalism subforum is much differe
 
 The "Tricky Business" subforum (which "talk(s) about the business side of magic") also declined over time. The forum did see a substantial resurgence in 2011 (which also appeared for the previous two communities, albeit much smaller). But, now averages only a few posts each day.
 
-Overall, while the rate is not entirely the same for each genre, one this is for sure, all parts of *The Magic Café* forums are declining.
+Overall, while the rate is not entirely the same for each genre, one this is for sure, all parts of *The Magic Café* forum are declining.
 
 # Are users leaving or posting less often? 
 
