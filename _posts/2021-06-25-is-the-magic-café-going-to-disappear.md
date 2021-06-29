@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is *The Magic Café* going to Disappear?
+title: Is The Magic Café going to Disappear?
 categories: Analysis
 date: 2021-06-25 14:57 -0500
 ---
