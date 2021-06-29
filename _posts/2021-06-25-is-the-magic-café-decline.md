@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Is The Magic Café going to Disappear?
+title: The decline in User Activity on The Magic Café Continues to Decline
 categories: Analysis
 date: 2021-06-25 14:57 -0500
 ---
-![disappear](https://media.giphy.com/media/VIzs0jgs8KmgVeTknN/giphy.gif){: width="250"}
+![disappear](https://media.giphy.com/media/0H5M5P6pCFSSEfUaPS/giphy.gif){: width="250"}
 
 Now 20 years old, *The Magic Café* is a popular community for magicians. Yet, with the popularity of *Facebook* groups and *Reddit* (e.g., *[r/Magic](https://www.reddit.com/r/Magic/)* and *[r/CardMagic](https://www.reddit.com/r/cardmagic/)*), the old-school design of *The Magic Café* may turn young magic enthusiasts away from the platform.
 
