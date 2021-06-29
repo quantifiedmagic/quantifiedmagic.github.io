@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The decline in User Activity on The Magic Café Continues to Decline
+title: User Activity on The Magic Café Continues to Decline
 categories: Analysis
 date: 2021-06-25 14:57 -0500
 ---
