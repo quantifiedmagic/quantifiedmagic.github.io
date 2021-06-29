@@ -24,7 +24,7 @@ Code: [Link](https://github.com/quantifiedmagic/Blog-Analysis-Notebooks/tree/mas
 
 ![The Magic Cafe](/assets/posts/is-the-magic-cafe-dying/magic-cafe-time.png){: width="500" }
 
-There you have it. The number of posts is dropping year after year, starting in 2008. Why did it begin declining in 2008? The housing crisis? Competition from other magic communities ranging from Reddit to Theory11? Who knows. Given the drop in the number of posts, it is unsurprising that special guests stopped in 2016. Why would guests appear if there is no one to speak to? There are other online magic communities (e.g., [Genii Magazine's forum](https://forums.geniimagazine.com/)), and many have been around as long as *The Magic Café*. Therefore, competition may not be the only reason.
+There you have it. The number of posts is dropping year after year, starting in 2008. Why did it begin declining in 2008? The housing crisis? Competition from other magic communities ranging from Reddit to Theory11? Who knows. Given the drop in the number of posts, it is unsurprising that special guests stopped in 2016. Why would guests appear if there is no one to speak to? There are other online magic communities (e.g., *[Genii Magazine's forum](https://forums.geniimagazine.com/)*), and many have been around as long as *The Magic Café*. Therefore, competition may not be the only reason.
 
 # Post frequency and Magic Genre
 
