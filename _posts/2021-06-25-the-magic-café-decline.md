@@ -26,6 +26,15 @@ Code: [Link](https://github.com/quantifiedmagic/Blog-Analysis-Notebooks/tree/mas
 
 There you have it. The number of posts is dropping year after year, starting in 2008. Why did it begin declining in 2008? The housing crisis? Competition from other magic communities ranging from Reddit to Theory11? Who knows. Given the drop in the number of posts, it is unsurprising that special guests stopped in 2016. Why would guests appear if there is no one to speak to? There are other online magic communities (e.g., *[Genii Magazine's forum](https://forums.geniimagazine.com/)*), and many have been around as long as *The Magic Café*. Therefore, competition may not be the only reason.
 
+Just a quick observation, the two screenshots below were taken at the same time.
+
+
+![The Magic Cafe](/assets/posts/is-the-magic-cafe-dying/magic-cafe-activity.png){: width="400" }
+
+![Reddit r/Magic](/assets/posts/is-the-magic-cafe-dying/rMagic-activity.png){: width="300" }
+
+From a quick glance, the number of members currently on *The Magic Café* is only 23, while *r/Magic* has more than 100 users online. Likewise, *The Magic Café* has 70 thousand users, while *r/Magic* exceeds 100 thousand registered users. While this is not a fair comparison because users on Reddit can explore other groups beyond r/Magic, the difference is startling.
+
 # Post frequency and Magic Genre
 
 Are all magic genres (e.g., cards, mentalisim, etc.) declining at similar rates? I find that the distribution (shape) of the decline varies genre-to-genre. For instance, has mentalism (the "Penny for your thoughts" page) combated the max exodus better than the card magic group (The workers)? See the figures below:
