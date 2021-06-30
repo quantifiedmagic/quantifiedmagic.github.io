@@ -366,7 +366,7 @@ p.readmore { text-align: right; }
 /* author info */
 @media (max-width: 780px) { .author { display: inline-block; text-align: center; } }
 
-.authorimage { display: inline-block; width: 90px; height: 90px; border-radius: 5%; -webkit-background-size: cover !important; background-size: cover !important; background-position: center center !important; margin-right: 10px; }
+.authorimage { display: inline-block; width: 180px; height: 90px; border-radius: 5%; -webkit-background-size: cover !important; background-size: cover !important; background-position: center center !important; margin-right: 10px; }
 
 @media (min-width: 781px) { .authorimage { float: left; } }
 
